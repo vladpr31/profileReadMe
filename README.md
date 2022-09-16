@@ -2,8 +2,8 @@
 <p></a> <a href="https://www.linkedin.com/in/vlad-propisnov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
 -  :mortar_board: I'm a Software Engineer graduate.
-- 🌱 I’m currently learning Web Development.:wink: 
-- 📫 You can reach me on: vladip31@gmail.com
+- 🌱 I’m currently learning and practicing Web Development. 
+- 📫 You can reach me on: [Email](vladip31@gmail.com)
 
 <p><a href="http://vladip.herokuapp.com/">➡️ My Protfolio</a></p>
 <h2>GitHub Stats</h2>
